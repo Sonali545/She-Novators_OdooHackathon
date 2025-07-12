@@ -17,7 +17,8 @@ A web-based platform that enables users to list their skills, browse others' ski
 ---
 
 ## 🌐 Live Demo
-> 
+> she-novators-odoo-hackathon.vercel.app
+
 
 ---
 
