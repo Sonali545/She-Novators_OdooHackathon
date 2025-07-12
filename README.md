@@ -17,12 +17,12 @@ A web-based platform that enables users to list their skills, browse others' ski
 ---
 
 ## SkillForge
-
+ 
 ## 🌐 Live Demo
 🔗 [Click here to view the live demo](https://she-novators-odoo-hackathon.vercel.app/)
 
 
-## Demo Video
+## ▶️ Demo Video
 🔗 https://github.com/user-attachments/assets/e936e45f-9366-4d06-9f6f-cdee9dcb7786
 
 
